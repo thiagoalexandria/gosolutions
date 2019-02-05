@@ -23,6 +23,9 @@ p {
 	font-size:16px;
 
 }
+.menor{
+  font-size:15px;
+}
 
 .btn-primary {
   padding: 8px 20px;
@@ -95,7 +98,7 @@ p {
 
 .navbar-fixed-top ul.nav ul.dropdown-menu {
 	  border-radius: 0;	
-	margin-top: 21px;
+	margin-top: 0px;
 	border-top: none;
 }
 
@@ -110,7 +113,7 @@ p {
 }
 
 .navbar-fixed-top ul.nav ul.dropdown-menu li a {
-	padding: 10px 20px;
+	 padding: 10px 20px;
 }
 
 .navbar-fixed-top.top-nav-collapse ul.nav ul.dropdown-menu li a {
